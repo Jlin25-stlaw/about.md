@@ -26,9 +26,9 @@ In my free time, I like to go to the gym, play 2k, and try new things. Hobbies a
 ## Where to Find Me
 
 - [My GitHub Profile](https://github.com/Jlin25-stlaw)  
-- [My GitHub Pages Site](https://Jlin25-stlaw.github.io/about.md/)  
+- [My GitHub pages site}(https://github.com/Jlin25-stlaw/about.md/edit/main/about_me.md)
 
 ---
 
-![A scenic mountain landscape with a clear sky](https://images.unsplash.com/photo-1501785888041-af3ef285b470)  
-*Photo by [Johannes Plenio](https://unsplash.com/@jplenio) on Unsplash*  
+[LeBron James iconic block against Andre Iguodala in Game 7 of the 2016 NBA Finals](images/lebron-block.webp)  
+*Photo via Mercury News — 2016 NBA Finals coverage*
