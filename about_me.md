@@ -9,7 +9,7 @@ In my free time, I like to go to the gym, play 2k, and try new things. Hobbies a
 - Playing basketball  
 - playing 2k  
 - Listening to music  
--
+
 
 ## My Favorite Quote
 
@@ -26,7 +26,8 @@ In my free time, I like to go to the gym, play 2k, and try new things. Hobbies a
 ## Where to Find Me
 
 - [My GitHub Profile](https://github.com/Jlin25-stlaw)  
-- [My GitHub pages site}(https://github.com/Jlin25-stlaw/about.md/edit/main/about_me.md)
+- [My GitHub Profile](https://jlin25-stlaw.github.io/about.md/about_me)
+
 
 ---
 
