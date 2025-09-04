@@ -9,7 +9,7 @@ In my free time, I like to stay active, get creative, and try new things. Hobbie
 - Playing basketball  
 - Drawing and painting  
 - Listening to music  
-- Hiking  
+- hanging out with my friends
 
 ## My Favorite Quote
 
@@ -26,7 +26,7 @@ In my free time, I like to stay active, get creative, and try new things. Hobbie
 ## Where to Find Me
 
 - [My GitHub Profile](https://github.com/jlin25-stlaw)  
-- [My GitHub Pages Site](https://jlin25-stlaw.github.io/about.md/about_me)  
+- [My GitHub Pages Site](https://github.com/Jlin25-stlaw/about.md/edit/main/about_me.md)  
 
 ---
 
