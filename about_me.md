@@ -26,7 +26,7 @@ In my free time, I like to stay active, get creative, and try new things. Hobbie
 ## Where to Find Me
 
 - [My GitHub Profile](https://github.com/jlin25-stlaw)  
-- [My GitHub Pages Site](https://github.com/Jlin25-stlaw/about.md/edit/main/about_me.md)  
+- [My GitHub Pages Site](https://github.com/Jlin25-stlaw/about.md/blob/main/about_me.md)  
 
 ---
 
