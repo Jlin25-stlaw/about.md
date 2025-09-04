@@ -26,7 +26,7 @@ In my free time, I like to go to the gym, play 2k, and try new things. Hobbies a
 ## Where to Find Me
 
 - [My GitHub Profile](https://github.com/Jlin25-stlaw)  
-- [My GitHub Pages Site](https://Jlin25-stlaw.github.io/about_me.md/)  
+- [My GitHub Pages Site](https://Jlin25-stlaw.github.io/about.md/)  
 
 ---
 
