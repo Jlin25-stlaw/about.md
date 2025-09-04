@@ -1,15 +1,15 @@
 # Jlin Brown
 
-Hello My name is Jlin Brown, and I am a student learning how to use GitHub and Markdown. I enjoy exploring new skills and sharing my work online.  
+Hello! My name is Jlin Brown, and I am a student learning how to use GitHub and Markdown. I enjoy exploring new skills and sharing my work online.  
 
 ## My Hobbies
 
-In my free time, I like to go to the gym, play 2k, and try new things. Hobbies are an important part of my life because they help me relax and stay balanced.  
+In my free time, I like to stay active, get creative, and try new things. Hobbies are an important part of my life because they help me relax and stay balanced.  
 
 - Playing basketball  
-- playing 2k  
+- Drawing and painting  
 - Listening to music  
-
+- Hiking  
 
 ## My Favorite Quote
 
@@ -21,15 +21,14 @@ In my free time, I like to go to the gym, play 2k, and try new things. Hobbies a
 
 1. Pizza  
 2. Sushi  
-3. lamb chops  
+3. Tacos  
 
 ## Where to Find Me
 
-- [My GitHub Profile](https://github.com/Jlin25-stlaw)  
-- [My GitHub Profile](https://jlin25-stlaw.github.io/about.md/about_me)
-
+- [My GitHub Profile](https://github.com/jlin25-stlaw)  
+- [My GitHub Pages Site](https://jlin25-stlaw.github.io/about.md/about_me)  
 
 ---
 
-[LeBron James iconic block against Andre Iguodala in Game 7 of the 2016 NBA Finals](images/lebron-block.webp)  
-*Photo via Mercury News — 2016 NBA Finals coverage*
+![LeBron James iconic block against Andre Iguodala in Game 7 of the 2016 NBA Finals](images/lebron-block.webp)  
+*Photo via Mercury News — 2016 NBA Finals coverage*  
