@@ -34,3 +34,8 @@ In my free time, I like to stay active, get creative, and try new things. Hobbie
 ![LeBron James iconic block against Andre Iguodala in Game 7 of the 2016 NBA Finals](images/lebron-block.webp)
 *Photo via Mercury News — 2016 NBA Finals coverage* 
 
+
+
+
+#Example Image 
+![Many Trees in a forest](The-Best- Trees-to-plant-for-fall-colors-1200x800.jpg.avf)
